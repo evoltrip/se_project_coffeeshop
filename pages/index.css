@@ -44,13 +44,9 @@
   list-style-type: none;
   gap: 20px;
   font-family: "Inter";
-
   font-style: normal;
-
   font-weight: 500;
-
   font-size: 16px;
-
   line-height: 20px;
 }
 
@@ -61,9 +57,11 @@
 
 .header__title {
   max-width: 729px;
+  font-family: "Inter";
+  font-style: normal;
+  font-weight: 500;
   font-size: 60px;
-  line-height: 70px;
-  margin: 183px 0 0;
+  line-height: 72px;
   letter-spacing: -0.6px;
 }
 
@@ -73,7 +71,8 @@
   line-height: 30px;
   margin: 28px 0 0;
   font-family: "Noto Serif";
-  font-weight: 400;
+  font-style: normal;
+  font-weight: normal;
   font-size: 20px;
   line-height: 30px;
 }
@@ -82,7 +81,7 @@
   display: block;
   font-family: "Noto Serif";
   font-style: italic;
-  font-weight: 400;
+  font-weight: normal;
   font-size: 60px;
   line-height: 72px;
   color: #3f96f3;
