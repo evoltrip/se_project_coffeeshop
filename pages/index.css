@@ -133,7 +133,7 @@
 .recipes__subtitle {
   font-family: "Noto Serif";
   font-style: normal;
-  font-weight: 400;
+  font-weight: normal;
   font-size: 20px;
   line-height: 30px;
   max-width: 438px;
@@ -154,6 +154,11 @@
   display: flex;
   justify-content: space-between;
   color: white;
+  font-family: "Inter";
+  font-style: normal;
+  font-weight: 500;
+  font-size: 20px;
+  line-height: 30px;
 }
 
 .recipes__iframe {
