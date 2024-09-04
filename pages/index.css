@@ -60,7 +60,7 @@
   line-height: 30px;
   margin: 28px 0 0;
   font-family: "Noto Serif";
-  font-style: normal;
+  font-style: 400;
   font-weight: 400;
   font-size: 20px;
   line-height: 30px;
@@ -70,7 +70,7 @@
   display: block;
   font-family: "Noto Serif";
   font-style: italic;
-  font-weight: normal;
+  font-weight: 400;
   font-size: 60px;
   line-height: 72px;
   color: #3f96f3;
@@ -122,7 +122,7 @@
 .precipes__subtitle {
   font-family: "Noto Serif";
   font-style: normal;
-  font-weight: normal;
+  font-weight: 400;
   font-size: 20px;
   line-height: 30px;
   max-width: 438px;
