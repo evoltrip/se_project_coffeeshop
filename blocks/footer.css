@@ -8,10 +8,10 @@
   padding: 60px 80px 0;
 }
 
-.footer__social-heading {
+.footer__social {
   margin-left: auto;
   color: #fff;
-  font-family: "Inter";
+  font-family: "Inter" Arial sans-serif;
   font-style: normal;
   font-weight: bold;
   font-size: 16px;
@@ -36,11 +36,12 @@
 
 .footer__social-link {
   color: #fff;
-  font-family: "Inter";
+  font-family: "Inter", Arial, sans-serif;
   font-style: normal;
   font-weight: normal;
   font-size: 16px;
   line-height: 20px;
+  text-decoration: none;
 }
 
 .footer__social-link:last-child {
@@ -57,10 +58,15 @@
 
 .footer__copyright {
   color: #fff;
-  font-family: "Inter";
+  font-family: "Inter", Arial, sans-serif;
   font-style: normal;
   font-weight: normal;
   font-size: 16px;
   line-height: 20px;
   padding: 108px 0 60px 80px;
+}
+
+.footer__logo {
+  width: 105px;
+  height: 39px;
 }
